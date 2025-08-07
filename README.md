@@ -1,4 +1,4 @@
-# Multilingual Bible Translation Alignment using eBible Corpus
+# Towards a Decoder-Only Bible Translator and Text Generation
 
 This project explores multilingual machine translation and alignment using the [eBible corpus](https://github.com/biblenlp/ebible), a collection of over 1,000 Bibles in different languages. It was developed as part of a Kaggle-based research project focused on leveraging religious texts for cross-lingual NLP applications.
 
